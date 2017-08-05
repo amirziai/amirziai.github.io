@@ -5,6 +5,6 @@
 Senior Data Scientist at [ZEFR](http://zefr.com)
 
 - [LinkedIn](http://linkedin.com/in/amirziai)
-- [GitHUb](http://github.com/amirziai)
+- [GitHub](http://github.com/amirziai)
 - [Twitter](http://twitter.com/amirziai)
 - [Google Scholar](https://scholar.google.com/citations?user=HJvHYVAAAAAJ&hl=en&oi=sra)
